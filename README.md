@@ -32,7 +32,6 @@ cd "01_Original data and graphs/A_data/A_1_figure"
 python plot.py
 ```
 
-Figures are 9 × 2.7 cm (10:3); A.13 is 18 × 5.4 cm. There are 33 figures in total; A.11 is not included.
 
 ## 02 Algorithm Code
 
